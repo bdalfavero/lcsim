@@ -1,3 +1,3 @@
 # lcsim
 
-Laser cooling simulation with pyLCP
+Laser cooling simulation with pyLCP.
